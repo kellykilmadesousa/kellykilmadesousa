@@ -1,4 +1,4 @@
-Olá, tudo bem? Me chamo Kelly Kilma 👋
+Olá! Eu sou Kelly Kilma 👋
 
 - 📚 Sou secretária, estudante de Turismo e futura Desevolvedora Java full Stack Jr
 - 🚀 Estou interessada em vivenciar projetos que possam ser desenvolvidos por iniciantes
