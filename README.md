@@ -6,6 +6,6 @@ Olá! Eu sou Kelly Kilma 👋
 - 📫 Você pode falar comigo através do e-mail: kellykilmadesousa@gmail.com
 
 <div>
-  <a href="http:/beacons.ai/kellykilmadesousa">
+ <a href="http:/beacons.ai/kellykilmadesousa">
  <img height="180em" src=https://github-readme-stats.vercel.app/api?username=kellykilmadesousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src=https://github-readme-stats.vercel.app/api/top-lages/?username=kellykilmadesousa&layout=compact&lages_count=16&theme=dark"/>
+ <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=kellykilmadesousa&layout=compact&lages_count=16&theme=dark"/>
