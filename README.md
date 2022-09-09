@@ -9,14 +9,11 @@ Estou disponível para preojetos e trabalho, sou iniciante em busca de aprendiza
 
 📧 Para me contactar: ⤵️
 <div>
- <p align="left">
-  <a href="https://www.linkedin.com/in/kellykilma/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kellykilma/" target="_blank>
-  </a>   
-  
-  <a href = "mailto:kellykilmadesousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+ <a href = "mailto:kellykilmadesousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/kellykilma/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
 
 
 
