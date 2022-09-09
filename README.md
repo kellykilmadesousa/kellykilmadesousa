@@ -11,12 +11,12 @@ Estou disponível para preojetos e trabalho, sou iniciante em busca de aprendiza
 <div>
  <p align="left">
   <a href="https://www.linkedin.com/in/kellykilma/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kellykilma/"></a>
-
-  <a href="kellykilmadesousa@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=kellykilmadesousa@gmail.com"></a>
-</p>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kellykilma/" target="_blank>
+  </a>
+  <a href="mailto:kellykilmadesousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+</p>
 
 #### ⚡ Technologies & Tools
 <div style="display: inline_block">
