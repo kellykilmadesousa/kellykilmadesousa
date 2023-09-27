@@ -3,9 +3,10 @@
 
 # Hello World! 🌎
 
-Olá meu nome é **Kelly Kilma**, sou secretária em transição de carreira estudando pelo Bootcamp da **Generation Brasil** para me tornar desenvolvedora FullStack Java. <br>
+Olá meu nome é **Kelly Kilma**, sou secretária em transição de carreira formada Desenvolvedora Web Java Jr através do Bootcamp da **Generation Brasil** e
+aluna do programa de Formação Acelerada em Programação com foco em Front End na **Softex**.<br>
 <br>
-Estou disponível para preojetos e trabalho, sou iniciante em busca de aprendizados.
+Sou iniciante em busca de aprendizados disponível para participar de preojetos.
 
 📧 Para me contactar: ⤵️
 <div>
