@@ -4,9 +4,8 @@
 # Hello World! 🌎
 
 Olá meu nome é **Kelly Kilma**, sou secretária em transição de carreira formada Desenvolvedora Web Java Jr através do Bootcamp da **Generation Brasil** e
-aluna do programa de Formação Acelerada em Programação com foco em Front End na **Softex**.<br>
+aluna do programa de Formação Acelerada em Programação com foco em Front End na **Softex Pernambuco**.<br>
 <br>
-Sou iniciante em busca de aprendizados disponível para participar de preojetos.
 
 📧 Para me contactar: ⤵️
 <div>
